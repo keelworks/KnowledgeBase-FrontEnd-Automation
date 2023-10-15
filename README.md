@@ -10,7 +10,7 @@ Repo for UI automation
 
 If you'd like to contribute to this project, please follow these guidelines: 
 
-1. Clone this repository to your local machine. git clone https://github.com/
+1. Clone this repository to your local machine. git clone https://github.com/keelworks/KnowledgeBase-FrontEnd-Automation
 
 2. Create a new branch for your feature or bug fix.
 
