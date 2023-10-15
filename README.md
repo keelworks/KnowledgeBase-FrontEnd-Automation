@@ -23,3 +23,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 6. Make your changes and commit them.
 
 7. Create a pull request, describing your changes and why they should be merged.
+
+# Running Specific Test Suites
+You can run specific test suites by modifying the testng.xml file under the runners package. Add or remove elements to define the suites you want to run.
